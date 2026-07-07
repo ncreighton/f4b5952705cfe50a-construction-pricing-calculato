@@ -1,2 +1,59 @@
-# f4b5952705cfe50a-construction-pricing-calculato
-Professional construction WordPress plugin — without the professional price tag.  Regular security updates. Works with WordPress multisite. Compatible with all major WordPress themes and page builders.  ## What's Included  - Construction Pricing Calculator And Quote Builder Tool — fully configured and ready to use - Clean admin settings panel with
+=== Construction Pricing Calculator and Quote Builder Tool ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+A comprehensive pricing calculator and quote builder tool designed specifically for the construction industry.
+
+== Description ==
+
+A comprehensive pricing calculator and quote builder tool designed specifically for the construction industry.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Construction Pricing Calculator and Quote Builder Tool
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFadR9cLlgaU9JK1ZicZG1R)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFadR9cLlgaU9JK1ZicZG1R)
+
